@@ -9,4 +9,6 @@ git commit -m "txt" (commit the changes with text describing the commit)
 
 git push (push all local commits to Github)
 
+browser-sync start --server --directory --files "*" (instant refresh as local http host, no delays, good for debugging)
+
 
